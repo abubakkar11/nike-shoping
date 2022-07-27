@@ -1,0 +1,29 @@
+<div class="d-flex justify-content-caanter align-items-center w-100">
+    <div>
+     <img class="w-50 ms-5" src="images/Group 33092.png" alt="">
+    </div>
+    <div class="me-5">
+     <h1 class="text-uppercase fs-1 fw-bold">
+         <span>Nike React </span>
+         <span>Infinity Run 2</span>
+        </h1>
+        <p>Lorem Ipsum is simply dummy text of the printing 
+
+         and typesetting industry</p>
+    </div>
+    div class="ustify-content-caanter align-items-center">
+    <div class="row">
+        <div class="col-sm-12 col-lg-6 col-md-6">
+            <img class="w-75" src="images/Group 33092.png" alt="">
+        </div>
+        <div class="col">
+           <h1 class="text-uppercase">
+            <span>Nike React</span>
+            <br>
+            <span>Infinity Run 2</span>
+           </h1> 
+           <p>Lorem Ipsum is simply dummy text of the printing  and typesetting industry</p> 
+        </div>
+    </div>
+</div>
+   </div>
